@@ -12,7 +12,7 @@ def loop_iterator(number_of_times)
   counter = 0
   while counter < 7
   puts "Welcome to Flatiron School's Web Development Course!"
-  break if counter is == 7
+  break if counter == 7
   counter += 1 
 end
   
